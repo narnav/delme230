@@ -1,0 +1,17 @@
+.d1{
+    color: rgb(18, 198, 66);
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkslateblue;
+}
+
+.heading{
+    color: rgb(112, 37, 218);
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(164, 18, 67);
+}
+
+.body{
+    /* background-color: rgb(17, 65, 148); */
+}
